@@ -1,4 +1,4 @@
-echo "welcome"
+echo "welcome to github"
 date
 cal
 ls
